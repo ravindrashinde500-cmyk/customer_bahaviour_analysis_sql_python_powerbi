@@ -1,7 +1,7 @@
-# 🧾 Customer Behaviour Analysis Portfolio Project
-```
-      This project delivers actionable insights into customer shopping behavior by analyzing transactional data from 3,900 purchases across multiple product categories using SQL, Python, and Power BI.
-```
+## 🧾 Customer Behaviour Analysis Portfolio Project
+
+      This project provides actionable insights into customer shopping behaviour by analysing transactional data from 3,900 purchases across multiple product categories, utilising tools like SQL, Python, and Power BI.
+
 ---
 
 ## 📌Table of Contents
