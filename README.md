@@ -130,7 +130,7 @@ imputed missing Review Rating values using the median rating by product category
 - Identified seasonal trends and category-wise performance variations
 
 
-- **Key Insights**
+- **Key Insights**:
   - Discounts significantly influence purchase frequency
   - Higher product ratings are associated with increased repeat purchases
   - Online sales show higher average order value than offline
