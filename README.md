@@ -160,7 +160,7 @@ imputed missing Review Rating values using the median rating by product category
 
 - ![image alt](https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/fc6ecc09d820cc17c77a1f1b43af7a7ff3d0141f/customer_behaviour_dashboad.png)
 
-- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix">Power BI Dashboard</a>
+- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/tree/8b4090bb1bdcfd96a81fae80610f9b65a926e30c/dashboard">Power BI Dashboard</a>
 
 ---
 
@@ -198,7 +198,7 @@ https://github.com/yourusername/customer-shopping-behaviour-analysis.git
 - dashboard/customer_behaviour_dashboard.pbix
 ```
 
-- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix">Power BI Dashboard</a>
+-  <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/tree/8b4090bb1bdcfd96a81fae80610f9b65a926e30c/dashboard">Power BI Dashboard</a>
 
 ---
 
