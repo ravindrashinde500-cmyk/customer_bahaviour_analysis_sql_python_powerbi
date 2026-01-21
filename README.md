@@ -163,9 +163,10 @@ imputed missing Review Rating values using the median rating by product category
 <h2><a class="anchor" id="how-to-run-this-project"></a>🛠️ How to Run This Project</h2>
 
 1. **Clone the repository**
-```bash
+- bash`
+ ``` 
 git clone https://github.com/yourusername/customer-shopping-behaviour-analysis.git
-```
+ ```
 
 2. **Open Customer_Shopping_Behaviour_Analysis.ipynb notebook**
 ```
