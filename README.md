@@ -166,7 +166,7 @@ imputed missing Review Rating values using the median rating by product category
 
 ```bash
 git clone
-https://github.com/yourusername/customer-shopping-behaviour-analysis.git-ai
+https://github.com/yourusername/customer-shopping-behaviour-analysis.git
 ```
 
 2. **Open Customer_Shopping_Behaviour_Analysis.ipynb notebook**
