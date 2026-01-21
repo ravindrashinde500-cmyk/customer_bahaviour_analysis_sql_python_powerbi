@@ -56,7 +56,7 @@ purchases.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
-- <a href= "https://github.com/ravindrashinde500 cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking.xlsx">Dataset</a>
+- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/tree/d59a266fecacaeb7fbc47e0a49d2a5cd5ba7f0bf/data">Dataset</a>
 
 - CSV file is located in /data/ folder.
 
