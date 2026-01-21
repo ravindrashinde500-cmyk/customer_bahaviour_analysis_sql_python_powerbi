@@ -165,7 +165,7 @@ imputed missing Review Rating values using the median rating by product category
 1. **Clone the repository**
 ``` 
 - bash`
-git clone https://github.com/yourusername/customer-shopping-behaviour-analysis.git
+- git clone https://github.com/yourusername/customer-shopping-behaviour-analysis.git
 ```
 
 2. **Open Customer_Shopping_Behaviour_Analysis.ipynb notebook**
@@ -193,6 +193,7 @@ git clone https://github.com/yourusername/customer-shopping-behaviour-analysis.g
 - dashboard/customer_behaviour_dashboard.pbix
 ```
 -  Open Power BI Dashboard: 
+- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix"> Customer_Behaviour_Dashboard</a>
 
 ---
 
