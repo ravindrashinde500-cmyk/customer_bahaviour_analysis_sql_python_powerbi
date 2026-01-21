@@ -45,7 +45,7 @@ Developed a structured analytical report summarizing findings and business recom
 - Management has observed shifting purchasing patterns across different demographics, product categories, and sales channels (online and offline). They are particularly interested in identifying the key factors such as discounts, customer reviews, seasonal trends, and payment preferences that influence purchasing decisions and repeat behavior.
 purchases.
 
-- This project demonstrates a complete, industry-standard end-to-end data analytics workflow, reflecting the real-world responsibilities of data analysts. It covers all key stages, from data preparation and modeling to insight generation, visualization, and reporting.
+- This project demonstrates a complete, industry-standard end-to-end data analytics workflow, reflecting the real-world responsibilities of data analysts. It covers all key stages, from data preparation and modelling to insight generation, visualization, and reporting.
 
 ---
 
@@ -56,6 +56,7 @@ purchases.
 
 <h2><a class="anchor" id="dataset"></a>Dataset</h2>
 
+- <a href= "https://github.com/ravindrashinde500 cmyk/Banking_Customer_Analysis_Python_SQL_PBI/blob/main/Banking.xlsx">Dataset</a>
 
 - CSV file is located in /data/ folder.
 
