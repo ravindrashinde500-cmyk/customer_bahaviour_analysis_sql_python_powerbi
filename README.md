@@ -84,7 +84,7 @@ customer-behaviour-analysis/
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
-├── customer shopping bahaviour Report.pdf
+├── customer_bahaviour_report.pdf
 │
 ├── notebooks/                  # Jupyter notebooks
 │   ├── exploratory_data_analysis(EDA).ipynb
