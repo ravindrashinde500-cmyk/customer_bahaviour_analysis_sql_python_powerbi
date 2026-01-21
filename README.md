@@ -157,8 +157,11 @@ imputed missing Review Rating values using the median rating by product category
 - **Business Impact** : Helps optimize marketing strategies, improve customer engagement, and guide product decisions
 
 - **Dashboard Screenshot** :
+
 - ![image alt](https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/fc6ecc09d820cc17c77a1f1b43af7a7ff3d0141f/customer_behaviour_dashboad.png)
-  
+
+- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix">Power BI Dashboard</a>
+
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>🛠️ How to Run This Project</h2>
