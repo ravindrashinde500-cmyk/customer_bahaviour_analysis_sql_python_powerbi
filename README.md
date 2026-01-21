@@ -146,15 +146,17 @@ imputed missing Review Rating values using the median rating by product category
 - The Power BI dashboard provides insights into customer behavior, sales performance, and purchase drivers to support data-driven decisions.
 
 ### Objective:
-```
-To enable data-driven decision-making by visualizing customer trends, purchase drivers, and channel performance, supporting improvements in marketing strategy, customer engagement, and product optimization.
-```
+  
+- To enable data-driven decision-making by visualizing customer trends, purchase drivers, and channel performance, supporting improvements in marketing strategy, customer engagement, and product optimization.
+
 - **Key Metrics** : Total Sales, Average Order Value, Purchase Frequency, Repeat Customers, Discounts, Online vs Offline Sales
 
 - **Interactivity** : Filter by date, product category, sales channel, and customer segment
 
 - **Business Impact** : Helps optimize marketing strategies, improve customer engagement, and guide product decisions
 
+- ![image alt](https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/fc6ecc09d820cc17c77a1f1b43af7a7ff3d0141f/customer_behaviour_dashboad.png)
+  
 ---
 
 <h2><a class="anchor" id="how-to-run-this-project"></a>🛠️ How to Run This Project</h2>
