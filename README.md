@@ -193,8 +193,8 @@ https://github.com/yourusername/customer-shopping-behaviour-analysis.git
 ```
 - dashboard/customer_behaviour_dashboard.pbix
 ```
--  Open Power BI Dashboard: 
-- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix"> Customer_Behaviour_Dashboard</a>
+
+- <a href= "https://github.com/ravindrashinde500-cmyk/customer_bahaviour_analysis_sql_python_powerbi/blob/main/dashboard/customer_behaviour_dashboard.pbix">Power BI Dashboard</a>
 
 ---
 
