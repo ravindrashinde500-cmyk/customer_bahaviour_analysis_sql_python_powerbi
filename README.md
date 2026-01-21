@@ -10,7 +10,7 @@
 - <a href="#tools--technologies">Tools & Technologies</a>
 - <a href="#project-structure">Project Structure</a>
 - <a href="#data-cleaning--preparation">Data Cleaning & Preparation</a>
-- <a href="#exploratory-data-analysis-(EDA)">Exploratory Data Analysis (EDA)</a>
+- <a href="#exploratory-data-analysis-(eda)">Exploratory Data Analysis (EDA)</a>
 - <a href="#dashboard">Dashboard</a>
 - <a href="#how-to-run-this-project">How to Run This Project</a>
 - <a href="#key-insights">Key Insights</a>
@@ -116,7 +116,7 @@ were redundant; dropped promo_code_used.
 
 ---
 
-<h2><a class="anchor" id="exploratory-data-analysis-(EDA)"></a>Exploratory Data Analysis (EDA)</h2>
+<h2><a class="anchor" id="exploratory-data-analysis-(eda)"></a>Exploratory Data Analysis (EDA)</h2>
 
 - Exploratory Data Analysis was conducted to understand customer shopping behavior, assess data quality, and identify key patterns driving sales and customer loyalty.
 
